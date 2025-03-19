@@ -25,3 +25,15 @@
 
 ### Other 🌸
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Ollama](https://img.shields.io/badge/ollama-000000?logo=ollama&style=for-the-badge&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+<br/>
+
+## And these are my current stats 🤓
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gyomiel&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=catppuccin_mocha&show_icons=true" alt="Marta's GitHub stats" height="200"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=gyomiel&show_icons=true&theme=catppuccin_mocha" alt="Marta's GitHub stats" height="200"/>
+
+</div>
