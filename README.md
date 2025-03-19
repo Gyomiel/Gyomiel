@@ -6,7 +6,7 @@
 
 🐚 Please, feel free to reach me anytime at marta@martadlrdev.com.
 
-🪸  If you want to take a look at my projects and work, check out my portfolio → www.martadlrdev.com
+🪸  If you want to take a look at my projects and work, check out my portfolio → www.martadlrdev.com.
 
 🐋 While I enjoy full-stack development, my true passion lies in **back-end development**.
 
