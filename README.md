@@ -2,7 +2,7 @@
 
 <br/>
 
-🪼 Right now, I’m **available for work** and excited to take on new projects!
+🪼 Currently working as a **back-end developer specializing in PHP**!
 
 🐚 Please, feel free to reach me anytime at marta@martadlrdev.com.
 
