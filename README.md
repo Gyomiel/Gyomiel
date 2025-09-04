@@ -2,7 +2,7 @@
 
 <br/>
 
-🪼 Currently working as a **back-end developer specializing in PHP**!
+🪼 Currently working as a **back-end developer specializing in PHP and Python**!
 
 🐚 Please, feel free to reach me anytime at marta@martadlrdev.com.
 
